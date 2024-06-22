@@ -82,8 +82,9 @@ nav{
     background: #f44336;
     transition: 1s;
 }
-nav .fa-solid{
+nav > .fa-solid{
     display: none;
+    color: transparent;
 }
 @media(max-width: 700px){
     .nav-links ul li{
