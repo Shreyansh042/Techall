@@ -86,7 +86,7 @@ nav > .fa-solid{
     display: none;
     color: transparent;
 }
-.nav-links > .fa-solid{
+#navLinks > i{
     display: none;
     color: transparent;
 }
