@@ -86,6 +86,10 @@ nav > .fa-solid{
     display: none;
     color: transparent;
 }
+.nav-links > .fa-solid{
+    display: none;
+    color: transparent;
+}
 @media(max-width: 700px){
     .nav-links ul li{
         display: block;
